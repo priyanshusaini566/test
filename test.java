@@ -7,4 +7,4 @@ class test{
         int a=sc.nextInt();
         System.out.println(a);
     }
-}
+}       
