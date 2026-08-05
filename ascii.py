@@ -1,1 +1,3 @@
-print(ord('A'))
+ch=input("Enter the character")
+
+print(ord(ch))
