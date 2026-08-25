@@ -33,4 +33,4 @@ class Solution(object):
 
 obj=Solution()
 l1=[1,3,5,4,2]
-obj.sortArray(l1)
+print(obj.sortArray(l1))
