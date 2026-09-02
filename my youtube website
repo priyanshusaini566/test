@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priyanshu ka You tube channel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main">
+    <h1>PRIYANSHU SAINI-THE MULTITALENT</h1>
+    <form>
+        <div>
+            <input type="checkbox" name="privacy policy" id="privacy policy" value="yes">
+            <label for="privacy policy">Accept the privacy policy of priyanshu saini</label>
+        </div>
+        <br>
+        <div>
+            <label for="username"> Enter your username</label>
+            <input type="text" id="usernmae" name="username" placeholder="Enter your username" autofocus>
+        </div>
+
+        <div>
+            <p>ENTER YOUR GENDER-</p>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label>
+        </div>
+        <img src="ps.jpg" alt="First performence of priyanshu saini as a artist" height="644" width="444">
+        <img src="jam.jpg" alt="jam performence" height="644" width="444">
+        <video src="bansoori.mp4" controls height="444" width="344" poster="IMG_20250618_220055.jpg" loop></video>
+        <audio src="Jawan Prevue Theme_320(PagalWorld.com.cm)-[AudioTrimmer.com].mp3" controls loop  autoplay></audio>
+    </div>
+    
+    </div>
+        <h2>CHAMPION MEANS PRIYANSHU SAINI</h2>
+
+        <div>
+            <p>WHICH IS YOUR FAVOURITE MUSICAL INSTRUMENT-</p>
+            <select name="favourite instrument">
+                <option value="keyboard">keyboard</option>
+                <option value="flute">flute</option>
+                <option value="drum">drum</option>
+                <option value="guitar">guitar</option>
+                <option value="veena">veena</option>
+
+            </select>
+            
+            <table>
+                
+                <thead>
+                    <tr>
+                        <th>Musical instrument</th>
+                        <th>frequency</th>
+                        <th>discovering country</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td rowspan=>keyboard</td>
+                        <td>27.5 Hz to 4186 Hz</td>
+                        <td> US</td>
+                    </tr>
+                    <tr>
+                        <td>flute</td>
+                        <td>242 TO 260</td>
+                        <td>chna,europe and america</td>
+
+                    </tr>
+                    <tr>
+                        <td>drum</td>
+                        <td>344Hz</td>
+                        <td>china</td>
+                    </tr>
+                    <tr>
+                        <td>veena</td>
+                        <td>340</td>
+                        <td>India</td>
+                    </tr>
+                    <tfoot>
+                        <td>guitar</td>
+                        <td>290</td>
+                        <td>Spain</td>
+                    </tfoot>
+                </tbody>
+            </table>
+            
+
+        </div>
+        <br>
+        <img src="prize.jpg" alt="winning hamper at the auditorium" height="644" width="644">
+        <img src="brahm.jpg" height="644" width="644">
+        <h3>LET THE AURA BEGIN </h3>
+        <p>
+            THE AURA OF PRIYANSHU GRADUALLY INCREASED AND HE ALSO PERFORMED AT=
+        </p>
+        <ul type="checkbox">
+            <li>sr sen.sec.school,laxmangarh</li>
+            <li>bhairav bhawani chauwk,laxmangarh</li>
+            <li>saini bhawan,laxmangarh</li>
+            <li>goenka school,ghassu</li>
+            <li>band brahmraag at ACE</li>
+            <p>
+                AND HE HAS THE EXPERTISE IN PLAYING-
+            </p>
+        </ul>
+        <ol type="I">
+            <li>harmonium</li>
+            <li>flute</li>
+            <li>keyboard</li>
+            <li>drum</li>
+            <li>guitar</li>
+
+        </ol>
+        <img src="aura.jpg" alt="image of charming PS" height="544" width="444">
+        <img src="aura 2.jpg" alt="the pocket dynamo" height="544" width="444">
+        <img src="college.jpg" alt="the entry of PS in pink city" height="544" width="344">
+        <audio src=""></audio>
+        <h4>YOUTUBE VIDEOS</h4>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Du3hQeuvRXc?si=nGpw4pfOgXfyHsC7"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lrByJ-KbrYk?si=R-zTKgNsAo-A7xIv"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h5>HISTORY OF MUSICAL INSTRUMENTS</h5>
+        <iframe src="https://www.yamaha.com/en/musical_instrument_guide/" height="522" width="844"
+            frameborder="0"></iframe>
+        <div>
+            <label for="comment">Please give us feedback about the page..........</label>
+            <div>
+                <textarea name="comment" id="comment" cols="100" rows="8" placeholder="your feedback"></textarea>
+            </div>
+        </div>
+
+</body>
+
+</html>
